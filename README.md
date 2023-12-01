@@ -1,5 +1,5 @@
 # Handwritten-Digits-Recognizer
-Handwritten Digits Recognizer using Tensorflow and MNIST dataset and GUI made using pygame
+Developed a Handwritten Digits Recognizer using Tensorflow and trained the model on the MNIST dataset for accurate digit classification. Integrated a user-friendly Graphical User Interface (GUI) using Pygame
 
 1.Extract the zip files in the same directory 
 
